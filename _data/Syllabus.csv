@@ -15,27 +15,36 @@
 7,4,14-Sep,Wed,Data & Data Preprocessing,,,"Additional Material: <br>
  1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636054"">Pre-Processing</a> <br>
 2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636050"">Chapter 2 Entropy</a><br>
-3.<a href = ""https://colah.github.io/posts/2015-09-Visual-Information/"">Reading:Entropy & Information Theory</a>",,
-8,4,16-Sep,Fri,"Classification - Basic Classification, Decision Trees",,A1,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636063"">Basic Classification</a> "
+3.<a href = ""https://colah.github.io/posts/2015-09-Visual-Information/"">Reading:Entropy & Information Theory</a>","1.<a href = ""https://osu.zoom.us/rec/share/LRI8lS4hww4o7-3U8ISpT6aUnIHiuE_HPMVA442DFNkkTcxNYceDtxM7UFgQTCT_.-n81_p1fnQgU91OC"">09-14-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636048"">Chapter 2 Data</a>  <br>
+2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/9023264"">Entropy - but better - PPT</a>  <br>
+3.<a href = ""/cse5243/course_materials/lecture_examples/EntropyAndAllThatJazz.ipynb"">Entropy Notebook</a> "
+8,4,16-Sep,Fri,"Classification - Basic Classification, Decision Trees",,A1,,"1.<a href = ""https://osu.zoom.us/rec/share/UpfjwhzX4VFVFcm2z-YptyQBPA73BTGpHlxA_2AoOtoC6o8PR261a86AK6sXaNBx.Y4PBXuu7PnykqzTi"">09-15-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636063"">Basic Classification</a>"
 9,5,21-Sep,Wed,Classification - Overfitting,,,"Additional Material: <br>
 1.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636064"">Overfitting</a> <br>
-2.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636067"">p-value hacking</a>",,
-10,5,23-Sep,Fri,Classification - Imbalanced Classes,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636069"">Imbalanced Classes</a> "
+2.<a href=""https://osu.instructure.com/courses/128739/modules/items/8636067"">p-value hacking</a>","1.<a href = ""https://osu.zoom.us/rec/share/6YXoO32vUw9pkDrc4VYJUPjBVywZj05DJL4VKoALTRRxsMEuturBqA25BmAeSI1i.GxVlTc0BpCaJ-x0c"">09-21-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/9038114"">Random Forest Slides</a> <br>
+2.<a href = ""/cse5243/course_materials/lecture_examples/RandomForests.ipynb"">Random Forest Noteook</a> "
+10,5,23-Sep,Fri,Classification - Imbalanced Classes,,,"Additional Material:<br>
+1.<a href=""https://osu.instructure.com/courses/128739/modules/items/9059984"">Cost Sensitive Classification - New!</a> <br>","1.<a href = ""https://osu.zoom.us/rec/share/MKvS_OsQR6m6Y4Ad-HfSf99Nf-HkdPJX-8eCD5HpX5uQMDV7bj_0oFXGPMZakLcQ.ERQV36S9rexIzWuo"">09-23-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636069"">Imbalanced Classes</a> "
 11,6,28-Sep,Wed,"Classification - KNN, Rules","A2
 1.<a href = ""/cse5243/course_materials/hw/2/CSE5243 Classification HW2 Au21 V3.ipynb"">A2 Notebook</a> <br>
 2.<a href =""/cse5243/course_materials/hw/2/Cleveland Data CLEANED AND TRIMMED.csv"">A2 Data </a><br>",,"Additional Material: <br>
 1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636071"">Rule Based</a><br>
-2.<a href = ""/cse5243/course_materials/lecture_examples/IRIS Analysis.ipynb"">Example Analysis Notebook </a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636070"">K-Nearest Neighbors</a> "
-12,6,30-Sep,Fri,Classification - Bayes,,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636072"">Naïve Bayes</a> "
-13,7,5-Oct,Wed,"Classification - Log Reg, SVM",,,,,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636077/"">Support Vector Machines</a>  "
+2.<a href = ""/cse5243/course_materials/lecture_examples/IRIS Analysis.ipynb"">Example Analysis Notebook </a>","1.<a href = ""https://osu.zoom.us/rec/share/CwMrEb3w9W8uk0mdys38WxUuB3mMmJpARQGuwmfOcLhg7-CMOPhEyQmdl9W5uXuI.l674l2dpWYf5yvsP"">09-28-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636070"">K-Nearest Neighbors</a> "
+12,6,30-Sep,Fri,Classification - Bayes,,,,"1.<a href = ""https://osu.zoom.us/rec/share/WkeNaEozpuS_lkRKgnwKI4qBxAHX8BJETsvoUXbNTO9Zd6w-YtQqf8FsWfaY3sbH.pnXo_Kh5b_cH19cV"">09-30-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636072"">Naïve Bayes</a> "
+13,7,5-Oct,Wed,"Classification - Log Reg, SVM",,,"1.<a href = ""/cse5243/course_materials/lecture_examples/SVMandLogisticRegression.ipynb"">SVM</a> <br>","1.<a href = ""https://osu.zoom.us/rec/share/pN41NYNlv4bpxugyWF_VTw373kOh8wh8fvP7il40TFrPQXLxIu9wFNGXw_m1WCyA.FkXGQx6FQ34ryqfx"">10-05-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636077/"">Support Vector Machines</a>  "
 14,7,7-Oct,Fri,"Classification - ANN, Ensemble",,,"Additional Material: <br>
 1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636074"">Aritificial Neural Nets</a> <br>
-2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636085"">Greg's NN & CNN </a>",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636078"">Ensemble Methods</a> "
-15,8,12-Oct,Wed,Midterm Review,,A2,,,
+2.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636078"">Ensemble Methods</a>  
+","1.<a href = ""https://osu.zoom.us/rec/share/KbZ18I0483TfAn8dmtNy2_1UUaH3oDSD-uksQIkaX45_ZUNAEm9n4R1Ig4gcG_7s.vGY6PIa4dpMzXwr7"">10-07-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636085"">Greg's NN & CNN </a> <br>
+2.<a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/Neural%20Nets-Part1.ipynb"">Neural Nets Part 1 </a> <br>
+3.<a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/HotDogNotHotDog.ipynb"">Hot Dog/ Not Hot Dog</a> <br>
+4.<a href = ""https://gryslik.github.io/osu_cse3521_spring2022/course_materials/lecture_examples/HotDogImageHelper.ipynb"">Hot Dog Image Helper File</a> <br>
+5.<a href = ""https://osu.instructure.com/files/47007752/download?download_frd=1"">Hot Dog Training Data & Model File (Large zip)</a> <br>"
+15,8,12-Oct,Wed,Midterm Review,,A2,,"1.<a href = ""https://osu.zoom.us/rec/share/_aVl36FvQd3lNJ4OYAlzJHK2T8E3grXa4bS0LAqnsx3ZIiLDFALbUuAW6-JWPNR3.pzVLTKUhxXm-hfL4"">10-12-22</a> ","1.<a href = ""/cse5243/course_materials/lecture_examples/Midterm_Review_Document.ipynb"">Midterm Review Doc</a> <br>"
 -,8,14-Oct,Fri,NO CLASS,,,,,
 16,9,19-Oct,Wed,Midterm Exam,,,,,
 17,9,21-Oct,Fri,Clustering,"A3
-1. <a href = ""https://osu.instructure.com/files/44449884""> A3 Prompt </a>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/Clustering.ipynb"">Clustering Jupyter Notebook</a> ",,"1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636089"">Clustering</a> "
+1. <a href = ""https://osu.instructure.com/files/44449943""> A3 Prompt </a>",,"1.<a href = ""/cse5243/course_materials/lecture_examples/Clustering.ipynb"">Clustering Jupyter Notebook</a> ","1.<a href = ""https://osu.zoom.us/rec/share/FSAaL_o-1TkavIklXyoTOA4kSUoX6mu_987rYQk_0BaaWiz38FhG3tqandWOIxxB.QGGENcB41BHp69bN"">10-21-22</a> ","1.<a href = ""https://osu.instructure.com/courses/128739/modules/items/8636089"">Clustering</a> "
 18,10,26-Oct,Wed,Clustering,,,,,
 19,10,28-Oct,Fri,Clustering,,,,,
 20,11,2-Nov,Wed,Clustering,,,,,
